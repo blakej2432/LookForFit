@@ -7,6 +7,7 @@
 <br>
 
 >
+> #### 주요 라이브러리: langchain, yolo
 > #### 이미지 객체 검출: YOLOv9 fine-tuning - mAP50 0.94
 > #### 운동기구 설명 생성: OpenAI "gpt-4-turbo"
 <br>
